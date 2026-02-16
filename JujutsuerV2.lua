@@ -14,7 +14,7 @@ cloneref(game:GetService("StarterGui")):SetCore("SendNotification", {
 
 end
 if not cantuse then
-getgenv().SCRIPT_KEY = "tze"
+getgenv().SCRIPT_KEY = "addadwdasadwsagesawfrwadawdawd"
 
 -- This file was protected using Luraph Obfuscator v14.6 [https://lura.ph/]
 
